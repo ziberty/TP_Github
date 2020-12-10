@@ -1,0 +1,47 @@
+89368cc HEAD@{0}: reset: moving to HEAD
+89368cc HEAD@{1}: reset: moving to 89368cc
+315e189 HEAD@{2}: rebase (continue) (finish): returning to refs/heads/main
+315e189 HEAD@{3}: rebase (continue) (pick): commit3
+89368cc HEAD@{4}: commit (amend): commit2
+2aeccac HEAD@{5}: rebase (start): checkout ac9e869~
+1cd2195 HEAD@{6}: commit: commit4
+ac9e869 HEAD@{7}: commit: commit3
+2aeccac HEAD@{8}: commit: commit2
+948be3d HEAD@{9}: commit: commit1
+23dee92 HEAD@{10}: rebase (abort): updating HEAD
+ce639d0 HEAD@{11}: rebase (continue) (pick): Modification 2eFichier
+2e474f9 HEAD@{12}: rebase (continue) (pick): Update README.md
+ea307b1 HEAD@{13}: commit: Modification premier commit
+92afdcf HEAD@{14}: commit (amend): Commit initial
+58675dc HEAD@{15}: rebase: fast-forward
+559ee06 HEAD@{16}: rebase (start): checkout 58675dc~
+23dee92 HEAD@{17}: commit (amend): Modification README LISEZ_MOI
+c79d2c1 HEAD@{18}: rebase (finish): returning to refs/heads/main
+c79d2c1 HEAD@{19}: rebase (start): checkout 58675dc~
+c79d2c1 HEAD@{20}: rebase (abort): updating HEAD
+aea7fc5 HEAD@{21}: commit (amend): Commit initial
+58675dc HEAD@{22}: rebase: fast-forward
+559ee06 HEAD@{23}: rebase (start): checkout 58675dc~
+c79d2c1 HEAD@{24}: rebase (finish): returning to refs/heads/main
+c79d2c1 HEAD@{25}: rebase (start): checkout 58675dc~
+c79d2c1 HEAD@{26}: rebase (finish): returning to refs/heads/main
+c79d2c1 HEAD@{27}: rebase (start): checkout 58675dc~
+c79d2c1 HEAD@{28}: commit: Modification README LISEZ_MOI
+bbd9c99 HEAD@{29}: commit (amend): README encore modifié
+d126c70 HEAD@{30}: commit: README encore modifié
+facf5b3 HEAD@{31}: commit: Modification README.md (2e fois)
+e6e5a5f HEAD@{32}: merge feat/git_is_awesome: Fast-forward
+1145791 HEAD@{33}: checkout: moving from feat/git_is_awesome to main
+e6e5a5f HEAD@{34}: rebase (finish): returning to refs/heads/feat/git_is_awesome
+e6e5a5f HEAD@{35}: rebase (pick): Modification 1erFichier
+1145791 HEAD@{36}: rebase (start): checkout main
+2d5d760 HEAD@{37}: checkout: moving from main to feat/git_is_awesome
+1145791 HEAD@{38}: checkout: moving from feat/git_is_awesome to main
+2d5d760 HEAD@{39}: checkout: moving from main to feat/git_is_awesome
+1145791 HEAD@{40}: commit: Modification 2eFichier
+c7269b3 HEAD@{41}: checkout: moving from feat/git_is_awesome to main
+2d5d760 HEAD@{42}: commit: Modification 1erFichier
+c7269b3 HEAD@{43}: checkout: moving from main to feat/git_is_awesome
+c7269b3 HEAD@{44}: pull: Fast-forward
+58675dc HEAD@{45}: commit: Commit initial
+559ee06 HEAD@{46}: commit (initial): Premier commit
